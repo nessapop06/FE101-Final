@@ -1,13 +1,4 @@
 
-/*Colors
-peachy tan #efb78b
-pink: #EC96a4
-dark purple grey; #5d535e
-light purple grey; #e2d7e3
-lavender grey;  #9a9eab
-light grey; #f5f6f7*/
-
-
 * {
 	box-sizing: border-box;
 }
@@ -277,7 +268,7 @@ nav{
 
 #home{
 	width:100%;
-	background-image: url("../Images/header_home.jpg");
+	background-image: url("../images/header_home.jpg");
 	background-color: lightgrey;
 	background-attachment: fixed;
 	height: 99vh;
