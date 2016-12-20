@@ -1,4 +1,16 @@
 
+<<<<<<< HEAD
+=======
+/*Colors
+peachy tan #efb78b
+pink: #EC96a4
+dark purple grey; #5d535e
+light purple grey; #e2d7e3
+lavender grey;  #9a9eab
+light grey; #f5f6f7*/
+
+
+>>>>>>> cbe69f3fc50b5c2f5c9770d711b4a70b431c95ea
 * {
 	box-sizing: border-box;
 }
@@ -268,7 +280,11 @@ nav{
 
 #home{
 	width:100%;
+<<<<<<< HEAD
 	background-image: url("../images/header_home.jpg");
+=======
+	background-image: url("../Images/header_home.jpg");
+>>>>>>> cbe69f3fc50b5c2f5c9770d711b4a70b431c95ea
 	background-color: lightgrey;
 	background-attachment: fixed;
 	height: 99vh;
